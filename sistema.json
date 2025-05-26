@@ -1,0 +1,13 @@
+{
+    "estudiantes": [
+        {
+            "Id": "01",
+            "nombre": "Carlos",
+            "edad": 23,
+            "correo": "adsads@gmail.com",
+            "Curso": "once"
+        }
+    ],
+    "profesores": [],
+    "cursos": []
+}
